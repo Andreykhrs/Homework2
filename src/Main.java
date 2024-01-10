@@ -78,5 +78,8 @@ public class Main {
    allWorkTime = numberOfEmployess * workTime;
         System.out.println("Если в компании работает "+ numberOfEmployess + " человек, то всего " + allWorkTime + " часа работы может быть поделено между сотрудниками.");
 
+        System.out.println();
+        System.out.println("Готово!");
+
     }
 }
